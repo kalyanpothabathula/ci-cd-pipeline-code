@@ -52,10 +52,10 @@ terraform {
 provider "azurerm" {
   features {}
 
-  subscription_id = "62fc9f36-b49a-4f43-97da-2d2fff6966df"
-  client_id       = "2facbb8c-440e-4565-8df0-cd3bd274cb1e"
-  client_secret   = "n-i8Q~6giFWinf3IFF3lnu-Is-Lgrzdc3NLKAcqL"
-  tenant_id       = "bcb1f1b9-473c-4158-b112-6572f91afcfe"
+  subscription_id = "        "
+  client_id       = "         "
+  client_secret   = "      secreate key    "
+  tenant_id       = ""
 }
 
 variable "prefix" {
